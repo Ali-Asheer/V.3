@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Stegen
 using System;
 using System.Text.RegularExpressions;
 
